@@ -1,4 +1,7 @@
-#  <a href="https://rocketseat.com.br//" target="_blank"> <img src="https://image.freepik.com/free-vector/illustration-headphones-icon_53876-5571.jpg" alt="Podcastr" width="40" height="40"/> </a> #NLW5 Rockseat React.Js Trail: Podcastr 
+#  <a href="https://rocketseat.com.br//" target="_blank"> <img src="https://image.freepik.com/free-vector/illustration-headphones-icon_53876-5571.jpg" alt="Podcastr" width="40" height="40"/> </a> #NLW5 Rockseat React.Js Trail: Podcastr
+
+
+<img src="https://user-images.githubusercontent.com/74380088/115907983-f5488e80-a43f-11eb-8888-69407afb6f3c.png" alt="Podcastr" />
 
 ### 📰  The project:
 
