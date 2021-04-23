@@ -2,7 +2,8 @@
 
 ### 📰  The project:
 
-Podcastr is a platform built for podcast broadcasting. Project developed during the 5th edition of the Next Level Week of Rocketseat- ReactJS Trail.
+Podcastr is a platform for podcast broadcasting. 
+Project developed during the 5th edition of the Next Level Week of Rocketseat #NLW5- ReactJS Trail.
 
 ### 💻 Tecnologies:
 - React.js
